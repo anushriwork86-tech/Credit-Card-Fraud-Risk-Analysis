@@ -13,23 +13,19 @@ Project Objective: Transform transaction data into meaningful insights that can 
 
 Microsoft Power BI – Dashboard development and data visualisation.
 
-DAX – Include if used for calculated measures and KPIs.
+DAX – Used for calculated measures and KPIs.
 
-Power Query – Include if used for data cleaning and transformation.
+Power Query – Used for data cleaning and transformation.
 
-Excel / SQL / Python – Include only if actually used in this project.
+Excel- To Analyze and Understand the Data.
 
 3. Data Source
 
-Dataset: [Insert dataset name]
-
-Source: [Insert original dataset provider or URL]
+Dataset: Credit Card Fraud Risk Analysis.
 
 Data Type: Credit card transaction and fraud-related data.
 
-Data Format: [CSV / Excel / other]
-
-Data Scope: [Transaction count, date range and relevant fields]
+Data Format: CSV
 
 4. Features & Highlights
 
@@ -78,47 +74,29 @@ flowchart TD
 
 Workflow explanation:
 
-Business Understanding: Define the problem and identify the questions the analysis should answer.
-
-Data Understanding: Identify the available transaction data and understand its structure.
-
-Data Preparation: Prepare and clean the data, where required.
-
-Data Analysis: Explore transaction characteristics and potential fraud indicators.
-
-Dashboard Development: Present relevant metrics and findings in Power BI.
-
-Business Interpretation: Convert analytical observations into actionable recommendations.
-
-Note: This is a high-level analytical workflow, not a verified technical architecture of the PBIX file.
+- Business Understanding: Define the problem and identify the questions the analysis should answer.
+- Data Understanding: Identify the available transaction data and understand its structure.
+- Data Preparation: Prepare and clean the data, where required.
+- Data Analysis: Explore transaction characteristics and potential fraud indicators.
+- Dashboard Development: Present relevant metrics and findings in Power BI.
+- Business Interpretation: Convert analytical observations into actionable recommendations.
 
 7. Business Impact & Potential Recommendations
 
 The analysis can support financial institutions in making more informed fraud-risk decisions.
 
-Business Area
-
-Potential Impact
-
-Fraud Prevention
-
-Better visibility into suspicious transaction patterns
-
-Risk Monitoring
-
-More informed prioritisation of high-risk activity
-
-Operational Efficiency
-
-Better focus for fraud investigation teams
-
-Customer Experience
-
-Balance fraud controls with legitimate transactions
-
-Decision-Making
-
-Support data-driven risk-management strategies
+- Business Area
+- Potential Impact
+- Fraud Prevention
+- Better visibility into suspicious transaction patterns
+- Risk Monitoring
+- More informed prioritisation of high-risk activity
+- Operational Efficiency
+- Better focus for fraud investigation teams
+- Customer Experience
+- Balance fraud controls with legitimate transactions
+- Decision-Making
+- Support data-driven risk-management strategies
 
 Overall Business Objective: Convert transaction-level data into actionable risk intelligence that supports stronger fraud monitoring, improved operational decisions and customer trust.
 
