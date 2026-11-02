@@ -1,6 +1,7 @@
 # Credit-Card-Fraud-Risk-Analysis
 Turning Transaction Data into Fraud Risk Insights and Better Business Decisions
 
+
 1. Project Overview
 
 Credit card fraud is a major challenge for financial institutions, affecting customer trust, financial performance and operational efficiency.
@@ -8,6 +9,7 @@ Credit card fraud is a major challenge for financial institutions, affecting cus
 This independent portfolio project explores credit card transaction data to understand potential fraud patterns, identify risk indicators and support informed business decisions using Power BI.
 
 Project Objective: Transform transaction data into meaningful insights that can support fraud monitoring, risk assessment and better decision-making.
+
 
 2. Tech Stack
 
@@ -19,6 +21,7 @@ Power Query – Used for data cleaning and transformation.
 
 Excel- To Analyze and Understand the Data.
 
+
 3. Data Source
 
 Dataset: Credit Card Fraud Risk Analysis.
@@ -26,6 +29,7 @@ Dataset: Credit Card Fraud Risk Analysis.
 Data Type: Credit card transaction and fraud-related data.
 
 Data Format: CSV
+
 
 4. Features & Highlights
 
@@ -38,6 +42,7 @@ Risk Identification: Examine characteristics that may distinguish suspicious tra
 Interactive Reporting: Present analytical information through Power BI visuals.
 
 Business-Focused Insights: Translate data observations into recommendations for risk management.
+
 
 5. Key Business Questions
 
@@ -55,12 +60,15 @@ How can transaction data help improve fraud-monitoring strategies?
 
 How can businesses balance fraud prevention with a smooth customer experience?
 
+
 6. Project Workflow & Process Diagram
 
 The following diagram illustrates the analytical workflow used to approach the business problem.
 
+
 flowchart TD
-    A([Business Problem<br/>Credit Card Fraud Risk]) --> B[Understand Business Requirements]
+    A([Business Problem<br/>Credit Card Fraud Risk]) 
+    --> B[Understand Business Requirements]
     B --> C[Identify Data Source]
     C --> D[Transaction Data]
     D --> E[Data Understanding & Exploration]
@@ -81,6 +89,7 @@ Workflow explanation:
 - Dashboard Development: Present relevant metrics and findings in Power BI.
 - Business Interpretation: Convert analytical observations into actionable recommendations.
 
+
 7. Business Impact & Potential Recommendations
 
 The analysis can support financial institutions in making more informed fraud-risk decisions.
@@ -100,7 +109,9 @@ The analysis can support financial institutions in making more informed fraud-ri
 
 Overall Business Objective: Convert transaction-level data into actionable risk intelligence that supports stronger fraud monitoring, improved operational decisions and customer trust.
 
+
 8. Project Takeaways
+
 
 This project demonstrates the application of business intelligence and analytical thinking to a financial-services use case.
 
